@@ -1,4 +1,4 @@
-THis file is a script I created for using the Google Vision API and the OpenAI API to automate creating EXIF data and adding it to photos.
+This file is a script I created for using the Google Vision API and the OpenAI API to automate creating EXIF data and adding it to photos.
 
 One thing to note when running this script is:
 
